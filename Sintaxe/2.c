@@ -1,3 +1,4 @@
+#include <stdio.h>
 //2. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit e em graus Kelvin. As fórmulas de conversão é: F = C∗(9.0/5.0)+32.0 e K = C + 273.15,sendo F a temperatura em Fahrenheit e K a temperatura em Kelvin
 
 int main(){
