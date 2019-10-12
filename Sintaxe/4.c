@@ -1,5 +1,5 @@
 #include <stdio.h>
-//4.Lei um número e imprima os seus dois antecessores e os seus cinco sucessores.
+//4.Leia um número e imprima os seus dois antecessores e os seus cinco sucessores.
 
 int main()
 {
