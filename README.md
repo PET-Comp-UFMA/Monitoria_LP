@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Hello-Git-9cf)
 
 
-Esse repositório foi criado pelo Grupo de Acompanhamento de Discentes (GAD), composto por membros do [Programa de Educação Tutorial de Ciência da Computação da UFMA](https://pet.ufma.br/comp/) (Universidade Federal do Maranhão). Nesses exercícios, usamos a [linguagem de Programação C](http://www.open-std.org/jtc1/sc22/wg14/), seguindo os padrões ISO/IEC 9899:2011. Aqui estão armazenados os exercícios resolvidos, a fim de ajudar os discentes que estão cursando a disciplina de Linguagem de Programação, ministrado no curso de Ciência da Computação na UFMA. 
+Esse repositório foi criado pelo Grupo de Acompanhamento de Discentes (GAD), composto por membros do [Programa de Educação Tutorial de Ciência da Computação da UFMA](https://pet.ufma.br/comp/) (Universidade Federal do Maranhão). Nesses exercícios, usamos a linguagem de Programação C, seguindo os padrões [ISO/IEC 9899:2011](http://www.open-std.org/jtc1/sc22/wg14/). Aqui estão armazenados os exercícios resolvidos, a fim de ajudar os discentes que estão cursando a disciplina de Linguagem de Programação, ministrado no curso de Ciência da Computação na UFMA. 
 
 ![](c.png)
 
